@@ -43,7 +43,7 @@ class B:
 
     def append(self, v):
         self.v.append(v)
-
+        
 
 class C:
     xx = 1
